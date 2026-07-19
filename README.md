@@ -31,7 +31,7 @@
   <a href="https://vyavaeventsofficial.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-VYAVA_Events-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/bnreddy-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/nageswarreddybaisani/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:baisaninageswarreddy@gmail.com">
