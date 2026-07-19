@@ -219,7 +219,7 @@ A full-scale, serverless study portal and exam preparation hub featuring interac
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bnreddy-dev/bnreddy-dev/output/github-contribution-grid-snake.svg" alt="Snake grid animation" />
+  <img src="https://github.com/bnreddy-dev/bnreddy-dev/raw/output/github-contribution-grid-snake.svg" alt="Snake grid animation" />
 </p>
 
 ---
