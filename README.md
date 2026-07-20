@@ -7,36 +7,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bnreddy-dev">
-    <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20Electrical%20Engineering-8b5cf6?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
-  </a>
-  <a href="https://github.com/bnreddy-dev">
-    <img src="https://img.shields.io/badge/Location-India-6366f1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  </a>
-  <a href="https://github.com/bnreddy-dev">
-    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-10b981?style=flat-square&logo=github&logoColor=white" alt="Status" />
-  </a>
+  <img src="https://img.shields.io/badge/B.Tech-Electrical%20Engineering-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-10b981?style=flat-square" />
 </p>
 
 <p align="center">
-  <a href="https://electrical-engineering-studies.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-EE_Study_Hub-6366F1?style=for-the-badge&logo=firebase&logoColor=white" />
-  </a>
-  <a href="https://vyavaeventsofficial.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-VYAVA_Events-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://t.me/eestudyplace_bot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-EE_Study_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/nageshwarreddy_99/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/bnreddy-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:baisaninageswarreddy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://electrical-engineering-studies.web.app"><img src="https://img.shields.io/badge/🌐_EE_Study_Hub-6366F1?style=for-the-badge&logo=firebase&logoColor=white" /></a>
+  <a href="https://vyavaeventsofficial.web.app"><img src="https://img.shields.io/badge/🌐_VYAVA_Events-8B5CF6?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/bnreddy-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:baisaninageswarreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/eestudyplace_bot"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
