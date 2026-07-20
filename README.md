@@ -1,3 +1,4 @@
+[README (1).md](https://github.com/user-attachments/files/30198707/README.1.md)
 &lt;p align="center"&gt;
   &lt;img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=85,34,166,139,92,246,192,132,252&height=180&section=header&text=Nageswar%20Reddy%20Baisani&fontSize=40&fontColor=ffffff&fontAlign=center&fontAlignY=40" width="100%" /&gt;
 &lt;/p&gt;
