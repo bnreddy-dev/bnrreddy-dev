@@ -18,18 +18,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate github-contribution-grid-snake.svg with default GitHub colors
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            github-contribution-grid-snake.svg?palette=github-dark
 
       - name: Commit and push snake SVG directly to main branch
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
-          git commit -m "Update snake grid animation [skip ci]" || exit 0
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update snake grid animation to default GitHub green theme [skip ci]" || exit 0
           git push
