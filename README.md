@@ -133,10 +133,10 @@ A full-scale, serverless study portal and exam preparation hub featuring interac
 
 ---
 
-## 📈 GitHub Contribution Activity
+## 📈 GitHub Contribution Activity (Green Dots)
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/8b5cf6/bnreddy-dev" width="100%" alt="bnreddy-dev's Github Contribution Chart" />
+  <img src="https://ghchart.rshah.org/2ea44f/bnreddy-dev" width="100%" alt="bnreddy-dev's Green Dots Contribution Chart" />
 </p>
 
 ---
@@ -144,7 +144,7 @@ A full-scale, serverless study portal and exam preparation hub featuring interac
 ## 🐍 Contribution Snake Grid Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bnreddy-dev/bnreddy-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/main/svg/github-user-contribution-grid-snake.svg" width="100%" alt="Snake Grid Animation" />
 </p>
 
 ---
