@@ -133,6 +133,22 @@ A full-scale, serverless study portal and exam preparation hub featuring interac
 
 ---
 
+## 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/8b5cf6/bnreddy-dev" width="100%" alt="bnreddy-dev's Github Contribution Chart" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Grid Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bnreddy-dev/bnreddy-dev/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 ```yaml
