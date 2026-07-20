@@ -13,14 +13,8 @@
   <a href="https://github.com/bnreddy-dev">
     <img src="https://img.shields.io/badge/Location-India-6366f1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=bnreddy-dev&color=8b5cf6&style=flat-square&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=bnreddy-dev&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/bnreddy-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/bnreddy-dev?label=Followers&style=flat-square&color=4f46e5" alt="Followers" />
-  </a>
   <a href="https://github.com/bnreddy-dev">
-    <img src="https://img.shields.io/github/stars/bnreddy-dev?label=Total%20Stars&style=flat-square&color=8b5cf6" alt="Stars" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-10b981?style=flat-square&logo=github&logoColor=white" alt="Status" />
   </a>
 </p>
 
@@ -31,7 +25,7 @@
   <a href="https://vyavaeventsofficial.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-VYAVA_Events-8B5CF6?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nageswarreddybaisani/" target="_blank">
+  <a href="https://linkedin.com/in/bnreddy-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:baisaninageswarreddy@gmail.com">
@@ -46,7 +40,7 @@
 I am an **AI Engineer and Full-Stack Developer** focused on building high-performance serverless systems, creative 3D user experiences, and automated AI workflows. By incorporating agentic AI and LLM orchestration into my engineering cycles, I quickly turn complex specifications into responsive, production-ready applications.
 
 *   **Software Engineering Core:** Solid foundations in clean architectures, serverless deployment pipelines, API integrations, and database design.
-*   **AI/ML Integration:** Specialization in client-side LLM model interfaces, quota-handling rotation strategies, and background generative agent agents.
+*   **AI/ML Integration:** Specialization in client-side LLM model interfaces, quota-handling rotation strategies, and background generative agents.
 *   **Creative Frontend:** Experienced in rendering rich WebGL canvas graphics, vector mathematics for hardware simulations, and smooth momentum scrolls.
 *   **Product Mindset:** I build with an editorial eye, prioritizing fast loading times, clean typography, responsive design states, and zero-cost hosting structures.
 
@@ -54,46 +48,29 @@ I am an **AI Engineer and Full-Stack Developer** focused on building high-perfor
 
 ---
 
-## 🛠️ Tech Stack
+## 🤖 AI-Driven Development & Workflow
 
-### Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,bash" />
-  </a>
-</p>
+I design applications that put AI at the center of the user experience and utilize agentic AI to power my daily programming workflow:
 
-### Frontend Engineering & 3D Motion
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,figma" />
-  </a>
-</p>
-
-### Backend, Databases & Integrations
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgres,supabase" />
-  </a>
-</p>
-
-### Cloud, DevOps & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,githubactions,git,npm,vscode,powershell" />
-  </a>
-</p>
+*   **AI Application Engineering:** Expert in integrating LLM APIs (like Google Gemini) into client-side applications, designing dynamic prompt systems, and implementing high-availability key-rotation pools for chatbots and study bots.
+*   **Agentic Development Lifecycle:** Actively utilize AI pair-programmers and code-generation models to structure files, refactor legacy code, draft mathematical models for simulators, and run test suites.
+*   **AI-Generated Automated Content:** Develop automated background pipelines (via GitHub Actions & Node.js) that utilize Gemini to dynamically generate situation-aware notifications and study nudges for users in real time.
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🛠️ Tech Stack & Skills
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **LLM Orchestration** | **Expert** | Multi-key API rotation pools, dynamic context window optimization, and structured output formatting using Google Gemini APIs. |
-| **Generative Workflows** | **Advanced** | Implementing background automation agents that run serverless cron scripts to generate and deliver contextual push notifications. |
-| **Prompt Engineering** | **Expert** | Few-shot prompting, system-level instruction tuning, and prompt chain design for interactive, domain-specific study chatbots. |
-| **RAG Architectures** | **Advanced** | Custom semantic indexing, local context loading, and state tracking for real-time document search engines. |
+| Category | Technologies |
+| :--- | :--- |
+| **AI & LLM Integration** | ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat&logo=googlegemini&logoColor=white) **Google AI Studio** |
+| **AI Development Tools** | **Antigravity AI Agent** |
+| **Frontend Frameworks** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **3D & Creative Motion** | ![Three.js](https://img.shields.io/badge/three.js-%23000000.svg?style=flat&logo=three.js&logoColor=white) **React Three Fiber (R3F)** |
+| **Animation Suites** | **GSAP (ScrollTrigger)** ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat&logo=framer&logoColor=white) **Lenis (Smooth Scroll)** |
+| **Backend & Cloud** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) |
+| **Integrations & Webhooks** | **Google Apps Script** |
+| **Payment Gateways** | **Razorpay API** |
+| **Scripting & Automation** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) |
 
 ---
 
@@ -112,7 +89,7 @@ A premium, cinematic landing page and booking system designed with an editorial 
 | **Performance** | LENIS smooth scrolling integrated with the GSAP animation ticker loop for high-fidelity performance. |
 | **Security** | Webhook form data processing handled off-site via Google Apps Script APIs to protect administrative sheet IDs. |
 | **Impact** | Immersive WebGL particle canvas background and horizontal scroll slides increase client session retention times. |
-| **Repository** | [Private Codebase] |
+| **Live Link** | [vyavaeventsofficial.web.app](https://vyavaeventsofficial.web.app) |
 
 #### Key Technical Architecture:
 *   **3D WebGL Canvas:** Implemented floating vertex field coordinates using custom three-dimensional camera transitions and interactive mouse pointer parallax.
@@ -134,7 +111,7 @@ A full-scale, serverless study portal and exam preparation hub featuring interac
 | **Performance** | Direct client-side JSON caching for instant transitions across complex, formula-heavy syllabus nodes. |
 | **Security** | Database read/write rules structured by UID; Razorpay webhook keys securely isolated in cloud environment. |
 | **Impact** | Automated notification dispatch workflow drives student practice streaks consistently throughout the day. |
-| **Repository** | [Private Codebase] |
+| **Live Link** | [electrical-engineering-studies.web.app](https://electrical-engineering-studies.web.app) |
 
 #### Key Technical Architecture:
 *   **Visual Physics Simulators:** Built custom canvas engines to render real-time, interactive engineering diagrams (e.g. Rotating Magnetic Fields, Transformer testing) driven by mathematical models.
@@ -153,74 +130,6 @@ A full-scale, serverless study portal and exam preparation hub featuring interac
 *   Implemented client-side Generative AI integrations, optimizing prompt templates and key rotation tools.
 *   Built and deployed payment-gateway integrations, automated backend webhooks, and cloud automation scripts.
 *   **Skills:** `React` `WebGL` `Three.js` `Firebase` `Node.js` `Google Apps Script` `GSAP` `GitHub Actions` `Python`
-
----
-
-## 🏆 Achievements
-
-| Recognition | Details |
-| :---: | :--- |
-| **Developer Productivity** | Successfully configured full-stack local builds and deployed Firebase serverless systems under 5 minutes. |
-| **Creative Engineering** | Designed and optimized custom canvas-based physical simulator models for complex engineering principles. |
-
----
-
-## 🎓 Certifications
-
-*   **Amazon Web Services (AWS)** — ![AWS Badge](https://img.shields.io/badge/AWS-Credential-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-*   **Oracle Cloud Infrastructure** — ![Oracle Badge](https://img.shields.io/badge/Oracle-OCI_Certified-F80000?style=flat-square&logo=oracle&logoColor=white)
-*   **NPTEL Electrical Engineering** — ![NPTEL Badge](https://img.shields.io/badge/NPTEL-Elite_Gold-blue?style=flat-square&logo=education)
-*   **Cisco Routing & Switching** — ![Cisco Badge](https://img.shields.io/badge/Cisco-CCNA_Certified-049FD9?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-## 🏁 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/bnreddy-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile_Link-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://geeksforgeeks.org" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Practice_Link-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://hackerrank.com" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Challenges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bnreddy-dev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bnreddy-dev&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnreddy-dev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bnreddy-dev&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bnreddy-dev&theme=tokyo-night&bg_color=1a1b26&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/bnreddy-dev/bnreddy-dev/raw/output/github-contribution-grid-snake.svg" alt="Snake grid animation" />
-</p>
 
 ---
 
